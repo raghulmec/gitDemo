@@ -1,5 +1,9 @@
 Line one
 Line two
-Line three
+<<<<<<< HEAD
+Line Threes
+=======
+Line Threes
+>>>>>>> 070e58b6bed8943f674c088131b9c229a100056c
 
 
