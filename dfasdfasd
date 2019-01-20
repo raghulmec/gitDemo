@@ -1,0 +1,79 @@
+[33mcommit 007ae429425afe46b0d3ea206afa2022e3a82640[m[33m ([m[1;36mHEAD -> [m[1;32mtestnew[m[33m)[m
+Author: unknown <admin@MAVRLT344.mavericsystems.lan>
+Date:   Sun Jan 20 19:31:01 2019 +0530
+
+    input
+
+[33mcommit 3fa9be64d98d73c0ed2ddaa1c4b38913986c14e8[m[33m ([m[1;31morigin/testnew[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: unknown <admin@MAVRLT344.mavericsystems.lan>
+Date:   Sun Jan 20 19:04:21 2019 +0530
+
+    test
+
+[33mcommit ffdc43b7b334881df4cda1dfd257a73be1008fac[m
+Author: raghulmec <33113213+raghulmec@users.noreply.github.com>
+Date:   Sun Jan 20 19:01:22 2019 +0530
+
+    Update File1.txt
+    
+    demo
+
+[33mcommit 8b7b879b3a28f8d116ed8dd498610b85d4fe0f92[m
+Merge: 527c87a 070e58b
+Author: unknown <admin@MAVRLT344.mavericsystems.lan>
+Date:   Sun Jan 20 18:58:01 2019 +0530
+
+    again modification
+
+[33mcommit 527c87a2d7e3a6a8616a04e289d1538d34665f0b[m
+Author: unknown <admin@MAVRLT344.mavericsystems.lan>
+Date:   Sun Jan 20 18:47:55 2019 +0530
+
+    again modification
+
+[33mcommit 070e58b6bed8943f674c088131b9c229a100056c[m
+Author: raghulmec <33113213+raghulmec@users.noreply.github.com>
+Date:   Sun Jan 20 18:47:41 2019 +0530
+
+    Update File1.txt
+
+[33mcommit 07c96ad13dce489fb7145c04f1b4c571280cda4a[m
+Merge: d74d64a 274d64c
+Author: unknown <admin@MAVRLT344.mavericsystems.lan>
+Date:   Sun Jan 20 18:44:54 2019 +0530
+
+    Confilict changes
+
+[33mcommit d74d64ab3bac688e23724a400950d6586445310e[m
+Author: unknown <admin@MAVRLT344.mavericsystems.lan>
+Date:   Sun Jan 20 18:26:39 2019 +0530
+
+    3rd line commit
+
+[33mcommit 274d64cea5139aadb1ee184ab7789ad818c3f9a7[m
+Author: raghulmec <33113213+raghulmec@users.noreply.github.com>
+Date:   Sun Jan 20 18:26:06 2019 +0530
+
+    Update File1.txt
+    
+    3rd line modified
+
+[33mcommit e4d1495c43bda16d80e0e1a953576119537f0fb0[m
+Author: unknown <admin@MAVRLT344.mavericsystems.lan>
+Date:   Sun Jan 20 18:24:31 2019 +0530
+
+    2nd commit done by raghul
+
+[33mcommit 68afe3a8732ff1e2ce6ca571222ce98a9fb66a36[m
+Author: raghulmec <33113213+raghulmec@users.noreply.github.com>
+Date:   Sun Jan 20 18:20:26 2019 +0530
+
+    Update File1.txt
+    
+    New line has added
+
+[33mcommit 99e472cb895f077e5fce294379e84fbbe78ef5aa[m
+Author: unknown <admin@MAVRLT344.mavericsystems.lan>
+Date:   Sun Jan 20 17:54:32 2019 +0530
+
+    1st commit
